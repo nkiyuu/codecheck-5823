@@ -46,7 +46,7 @@ http://54.92.123.84/search?［検索パラメータ］
  - (例１)記事IDで検索する「q=Id:記事ID」    
    `http://54.92.123.84/search?q=Id:A1001120160420E002204-005&ackey=［アクセスキー］`
  - (例２)見出し、本文をAND検索 「q=Title:地方 AND Body:神奈川」    
-   `http://54.92.123.84/search?q=Title:地方 AND Body:神奈川&ackey=［アクセスキー］`
+   `f［アクセスキー］`
  - (例３)日付を範囲で指定  「ReleaseDate:［日付 TO 日付］」    
    `http://54.92.123.84/search?q=Title:* AND ReleaseDate:[2016-03-31 TO 2016-04-30]&ackey=［アクセスキー］`
  - (例４)カテゴリを指定して検索 「Category:地方」  
